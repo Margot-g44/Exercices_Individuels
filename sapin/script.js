@@ -4,3 +4,4 @@ function afficherPointeSapin(hauteur) {
 
 afficherPointeSapin(4)
 
+.commit test
