@@ -1,7 +1,19 @@
-function afficherPointeSapin(hauteur) {
-  // à remplir
+
+
+function afficherEtoiles(n) {
+//   for (let i = 0; i < n ; i++) 
+
+ console.log(`${"*".repeat(n)}`) // à faire pour chaque étoile
+
 }
 
-afficherPointeSapin(4)
+afficherEtoiles(2)
+afficherEtoiles(5)
 
-.commit test
+
+function afficherRectangle(hauteur, largeur) {
+  // pour chaque "étage" de la hauteur
+  //    appeler printEtoile
+}
+
+afficherRectangle(5, 5)
